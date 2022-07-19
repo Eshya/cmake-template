@@ -1,0 +1,1 @@
+# simple design cmake with one executable output
